@@ -6,6 +6,10 @@
 Optimizing Emergency Vehicles Identification and Heart Attack Prediction with Activation, Loss, and Optimization Function Analysis in Machine Learning Models
 
 
+
+Uploading Screen Recording 2024-01-20 at 01.59.30.mov…
+
+
 ###  Project Description: 
 
 In this project, I aim to study the impact of activation, loss, and optimization functions on the performance of machine learning models applied to two important real-world datasets: Emergency Vehicles Identification and Heart Attack Analysis & Prediction. The goal is to determine the best combination of these functions that can improve the accuracy and robustness of the models in these two crucial applications. The results of this project will provide insights into the relationship between activation, loss, and optimization functions and their impact on the performance of machine learning models in emergency vehicles identification and heart attack analysis & prediction. The findings will be valuable for researchers and practitioners in these fields to make informed decisions when selecting activation, loss, and optimization functions for their models.
