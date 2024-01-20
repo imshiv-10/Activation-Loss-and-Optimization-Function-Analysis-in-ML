@@ -7,7 +7,6 @@ Optimizing Emergency Vehicles Identification and Heart Attack Prediction with Ac
 
 
 
-Uploading Screen Recording 2024-01-20 at 01.59.30.mov…
 
 
 ###  Project Description: 
