@@ -6,7 +6,7 @@
 Optimizing Emergency Vehicles Identification and Heart Attack Prediction with Activation, Loss, and Optimization Function Analysis in Machine Learning Models
 
 
-
+<img width="1022" alt="Screenshot 2024-01-20 at 01 58 37" src="https://github.com/imshiv-10/Activation-Loss-and-Optimization-Function-Analysis-in-ML/assets/112423329/dac90fb9-6da5-4437-ba70-2a60558d77f6">
 
 
 ###  Project Description: 
