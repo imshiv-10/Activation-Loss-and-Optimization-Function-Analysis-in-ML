@@ -1,4 +1,4 @@
-# Gradient Descent optimization Analysis in Machine Learning
+# Gradient Descent optimization Analysis in Deeper
 
 
 ### **Objective** : 
