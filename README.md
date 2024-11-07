@@ -1,4 +1,4 @@
-# Gradient Descent optimization Analysis in Deeper
+# Gradient Descent optimization Analysis in deeper
 
 
 ### **Objective** : 
